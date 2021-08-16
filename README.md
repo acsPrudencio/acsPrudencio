@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Antonio Carlos👋
 
  <div>
   <a href="https://github.com/acsPrudencio">
@@ -19,8 +19,11 @@
   
    ##
   <div>
-     <a href = "mailto:acsprudencio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:acsprudencio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/acsprudencio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <img height="30" src="https://komarev.com/ghpvc/?username=acsPrudencio&color=green" alt="acsPrudencio"/>
+   
+    
      
    ![Snake animation](https://github.com/acsPrudencio/acsPrudencio/blob/output/github-contribution-grid-snake.svg)
   </div>
