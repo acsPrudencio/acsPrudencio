@@ -26,6 +26,6 @@
   
   ##
   <div>
-    ![Snake animation](https://github.com/acsprudencio/acsprudencio/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/acsPrudencio/acsPrudencio/blob/output/github-contribution-grid-snake.svg)
   </div>
 
