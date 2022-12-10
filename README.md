@@ -4,7 +4,7 @@ Atualmente sou/estou ...
 
 💻 Academico de Ciência da Computação - UFPI  
 👨‍💻 Desenvolvedor backend java  
-🐈 Pai de 2 gatos (Maurice e Morgana)💕  
+🐈 Pai de 2 gatinhos (Maurice e Morgana)💕  
 🛠️ Java, Spring Boot, JPA, PostgreSQL  
 
  <div>
