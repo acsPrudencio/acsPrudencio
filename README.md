@@ -1,4 +1,11 @@
-### Hi there I'm Antonio Carlos👋
+### Olá 👋
+Meu nome é Antonio Carlos, mas podem me chamar de Carlim!😄  
+Atualmente sou/estou ...
+
+💻 Academico de Ciência da Computação - UFPI  
+👨‍💻 Desenvolvedor backend java  
+🐈 Pai de 2 gatos (Maurice e Morgana)💕  
+🛠️ Java, Spring Boot, JPA, PostgreSQL  
 
  <div>
   <a href="https://github.com/acsPrudencio">
