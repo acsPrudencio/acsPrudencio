@@ -7,11 +7,7 @@ Atualmente sou/estou ...
 🐈 Pai de 2 gatinhos (Maurice e Morgana)💕  
 🛠️ Java, Spring Boot, JPA, PostgreSQL  
 
- <div>
-  <a href="https://github.com/acsPrudencio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acsPrudencio&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsPrudencio&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Image-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Image-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
