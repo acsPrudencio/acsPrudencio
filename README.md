@@ -5,7 +5,7 @@ Atualmente sou/estou ...
 💻 Academico de Ciência da Computação - UFPI  
 👨‍💻 Desenvolvedor backend java  
 🐈 Tutor de 2 gatinhos (Maurice e Morgana)💕  
-🛠️ Java, Spring Boot, JPA, PostgreSQL  
+🛠️ Java, Spring Boot, Spring MVC, JPA, PostgreSQL  
 
 
 <div style="display: inline_block"><br>
