@@ -1,17 +1,17 @@
-### Olá 👋
-Meu nome é Antonio Carlos, mas podem me chamar de Carlim!😄  
-Atualmente sou/estou ...
+### Hi there 👋, I am Antonio Carlos! 😄 
+I'm a computer science student at [UFPI](https://ufpi.br/). I have a year and a half working as a software engineer at [Maida Health](https://maida.health/).   
+My technology stack involves Java, PostgreSQL, Spring Boot, MVC, JPA, Security and various modules of spring framework.
 
-💻 Ciência da Computação - UFPI  
-👨‍💻 Desenvolvedor backend java  
-🛠️ Java, Spring Boot, Spring MVC, JPA, PostgreSQL  
+💻 Computer Science - [UFPI](https://ufpi.br/)
+👨‍💻 JAVA Backend Developer 
+📧 To contact me: acsprudencio@gmail.com
 
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Image-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Image-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Image-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Image-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Image-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img align="center" alt="Image-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
   
    ##
