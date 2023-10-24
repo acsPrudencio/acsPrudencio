@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Antonio Carlos! 😄 
-I'm a computer science student at [UFPI](https://ufpi.br/). I have a year and a half working as a software engineer at [Maida Health](https://maida.health/).   
+I'm a computer science student at [Estácio](https://estacio.br/). I have a year and a half working as a software engineer at [Maida Health](https://maida.health/).   
 My technology stack involves Java, PostgreSQL, Spring Boot, MVC, JPA, Security and various modules of spring framework.
 
-💻 Computer Science - [UFPI](https://ufpi.br/)
-👨‍💻 JAVA Backend Developer 
-📧 To contact me: acsprudencio@gmail.com
+💻 Computer Science - [Estácio](https://estacio.br/)  
+👨‍💻 JAVA Backend Developer  
+📧 To contact me: acsprudencio@gmail.com  
 
 
 <div style="display: inline_block"><br>
